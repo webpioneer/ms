@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+*.db
+*.py.swp
+*.py.swo
+.DS_Store
+.coverage
+local_settings.py
+settings.py
